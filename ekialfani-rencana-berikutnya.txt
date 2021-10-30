@@ -4,7 +4,10 @@ RENCARAN SAYA SELANJUTNYA
 - belajar belajar database
   * belajar struktur data
   * belajar mysql
-  * belajar bahasa query
+  * belajar crud
 - belajar membuat project
   * membuat project sederhana
+- belajar rest API
+- belajar git dan github
+
  
