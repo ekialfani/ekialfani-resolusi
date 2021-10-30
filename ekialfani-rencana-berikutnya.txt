@@ -1,13 +1,14 @@
 RENCARAN SAYA SELANJUTNYA
 - mulai belajar backend
 - belajar nodejs
-- belajar belajar database
+- belajar database
   * belajar struktur data
   * belajar mysql
+- belajar rest API
+  * belajar bahasa query
   * belajar crud
 - belajar membuat project
   * membuat project sederhana
-- belajar rest API
+- belajar API
 - belajar git dan github
-
  
