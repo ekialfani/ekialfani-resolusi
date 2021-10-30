@@ -1,6 +1,9 @@
 RENCARAN SAYA SELANJUTNYA
 - mulai belajar backend
 - belajar nodejs
-- belajar mysql
+- belajar belajar database
+  * belajar struktur database
+  * belajar mysql
 - belajar membuat project
+  * membuat project sederhana
  
