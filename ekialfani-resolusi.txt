@@ -1,5 +1,5 @@
 Eki Alfani Resolusi
 - konsisten belajar web development
-- membuat portfolio
 - belajar javascript lanjutan
+- belajar DOM (Document Object Model)
 - belajar reactjs
