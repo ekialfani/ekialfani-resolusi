@@ -9,4 +9,5 @@ RENCARAN SAYA SELANJUTNYA
 - belajar membuat project
   * membuat project sederhana
 - belajar API
+- belajar git dan github
  
