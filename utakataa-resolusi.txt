@@ -1,0 +1,10 @@
+Halo, salam kenal nama saya utakata dari wakandaland
+
+resolusi saya:
+- belajar mobile programming dengan android studio
+  * belajar java dasar
+  * belajar java OOP
+  * belajar android studio
+- belajar framework
+  * flutter
+  * react native

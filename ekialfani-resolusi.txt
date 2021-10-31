@@ -3,3 +3,6 @@ Eki Alfani Resolusi
 - belajar javascript lanjutan
 - belajar DOM (Document Object Model)
 - belajar reactjs
+- belajar android studio
+- belajar flutter
+- belajar react native
